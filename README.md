@@ -1,6 +1,6 @@
-### webdl
+# webdl
 
-# Preparation and installation
+### Preparation and installation
 
 1. Download these files:
 
@@ -12,4 +12,4 @@
 4. In the ffmpeg-release-full.7z archive there is a bin folder, copy the 3 .exe files (ffmpeg, ffplay, ffprobe) into the new directory you created in Step 1
 5. Done!
 
-# Usage
+### Usage
