@@ -16,8 +16,11 @@
 
 5. Done!
 
-## 2) Getting the stream link
+## 2A) Getting the stream link via extension
 
+1. Install this in Firefox, https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/ it will give you the youtube-dl command
+
+## 2B) Getting the stream link manually 
 
 1. On the video page open up the Developer Tools with F12 in Chrome of Firefox
 
