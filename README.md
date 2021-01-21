@@ -1,6 +1,6 @@
 # webdl
 
-## Preparation and installation
+## 1) Preparation and installation
 
 
 1. Download these files:
@@ -16,7 +16,7 @@
 
 5. Done!
 
-## Getting the stream link
+## 2) Getting the stream link
 
 
 1. On the video page open up the Developer Tools with F12 in Chrome of Firefox
@@ -27,15 +27,19 @@
 
 4. Now this Network tab shows the traffic between the website and your computer
 
-5. There will be a small textbox on the left you have to enter m3u8 into it and one result will remain
+5. You will have to try out these substeps to determine which livestream the page is doing
 
-6. Click on it this will bring up a new window in the right
+### A) m3u8
 
-7. Click on the new windows's Header tab and copy the Request URL
+5A. There will be a small textbox on the left you have to enter m3u8 into it and one result will remain
 
-8. Succes, now you have the stream link!
+6A. Click on it this will bring up a new window in the right
 
-## Usage
+7A. Click on the new windows's Header tab and copy the Request URL
+
+8A. Succes, now you have the stream link!
+
+## 3) Usage
 
 
 1. In the folder where the four .exe files are (youtube-dl, ffmpeg, ffplay, ffprobe) hold Shift and right click
