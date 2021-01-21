@@ -39,6 +39,28 @@
 
 8A. Succes, now you have the stream link!
 
+### B) mpd
+
+5B. There will be a small textbox on the left you have to enter mpd into it and one result will remain
+
+6B. Click on it this will bring up a new window in the right
+
+7B. Click on the new windows's Preview or Response tab, check the video qualities listed and copy the URL
+
+8B. Succes, now you have the stream link!
+
+### C) master.json
+
+5C. There will be a small textbox on the left you have to enter master.json into it and one result will remain
+
+6C. Click on it this will bring up a new window in the right
+
+7C. Click on the new windows's Header tab and copy the Request URL
+
+8C. Delete the json?base64_init=1 part of the copied link and replace it with m3u8 so you end up with master.m3u8
+
+8C. Succes, now you have the stream link!
+
 ## 3) Usage
 
 
