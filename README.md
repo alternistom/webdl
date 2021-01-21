@@ -1,6 +1,7 @@
 # webdl
 
-### Preparation and installation
+## Preparation and installation
+
 
 1. Download these files:
 
@@ -15,7 +16,8 @@
 
 5. Done!
 
-### Getting the stream link
+## Getting the stream link
+
 
 1. On the video page open up the Developer Tools with F12 in Chrome of Firefox
 
@@ -33,4 +35,21 @@
 
 8. Succes, now you have the stream link!
 
-### Usage
+## Usage
+
+
+1. In the folder where the four .exe files are (youtube-dl, ffmpeg, ffplay, ffprobe) hold Shift and right click
+
+2. From the popup select 'Open Powershell window here'
+
+3. This will bring up a Powershell windows with the path to your folder
+
+4. Into this you will have to enter, the streamlink is what you copied from the Developer Tools:
+
+        youtube-dl streamlink
+
+5. Also if you want to be extra careful, put the streamlink between paranthesis like this:
+
+        youtube-dl "streamlink"
+        
+6. Press enter and the grabbing process will start!
