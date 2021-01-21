@@ -27,7 +27,7 @@
 
 4. Now this Network tab shows the traffic between the website and your computer
 
-5. You will have to try out these substeps to determine which livestream the page is doing
+You will have to try out these substeps to determine which livestream the page is doing:
 
 ### A) m3u8
 
