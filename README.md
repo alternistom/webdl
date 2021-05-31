@@ -8,13 +8,21 @@
         https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
         https://youtube-dl.org/downloads/latest/youtube-dl.exe
 
-2. Create a new folder into which you are going to download the video
+2. Create a new folder into which we are going to extract the exe files, kinda like an install folder
 
 3. Into this folder copy the downloaded youtube-dl.exe 
 
-4. In the ffmpeg-release-full.7z archive there is a bin folder, copy the 3 .exe files (ffmpeg, ffplay, ffprobe) into the new directory you created in Step 1
+4. In the ffmpeg-release-full.7z archive there is a bin folder, copy the 3 .exe files (ffmpeg, ffplay, ffprobe) into the new directory you created in Step 2
 
-5. Done!
+5. Open up start menu and search for Environment variable and open up the first hit
+
+6. On the popup window make sure you re on the Special tab and at the bottom click on Environment variables
+
+7. On the upper part of the new popup windows search for the Variable names Path, click on it twice to edit
+
+8. Click on Browse and navigate the files browser to the folder you created in Step 2, then click on Ok
+
+9. Now click Ok three more times to close all the windows, now we are ready with this step!
 
 ## 2A) Getting the stream link via extension
 
