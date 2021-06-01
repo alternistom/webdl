@@ -80,7 +80,7 @@ You will have to try out these substeps to determine which livestream the page i
 ## 3) Usage
 
 
-1. In the folder where the four .exe files are (youtube-dl, ffmpeg, ffplay, ffprobe) hold Shift and right click (if you completed the optional part of Step 1, any folder will do)
+1. In the folder where the four .exe files are (youtube-dl, ffmpeg, ffplay, ffprobe) hold Shift and right click, ** BUT if you completed the optional part of Step 1, any folder will do)**
 
 2. From the popup select 'Open Powershell window here'
 
