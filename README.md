@@ -14,6 +14,8 @@
 
 4. In the ffmpeg-release-full.7z archive there is a bin folder, copy the 3 .exe files (ffmpeg, ffplay, ffprobe) into the new directory you created in Step 2
 
+**Optional part of Step 1 (if you do this you will be able to run youtube-dl from any folder)**
+
 5. Open up start menu and search for Environment variable and open up the first hit
 
 6. On the popup window make sure you re on the Special tab and at the bottom click on Environment variables
@@ -78,7 +80,7 @@ You will have to try out these substeps to determine which livestream the page i
 ## 3) Usage
 
 
-1. In the folder where the four .exe files are (youtube-dl, ffmpeg, ffplay, ffprobe) hold Shift and right click
+1. In the folder where the four .exe files are (youtube-dl, ffmpeg, ffplay, ffprobe) hold Shift and right click (if you completed the optional part of Step 1, any folder will do)
 
 2. From the popup select 'Open Powershell window here'
 
