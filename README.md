@@ -14,7 +14,7 @@
 
 4. In the ffmpeg-release-full.7z archive there is a bin folder, copy the 3 .exe files (ffmpeg, ffplay, ffprobe) into the new directory you created in Step 2
 
-**Optional part of Step 1 (if you do this you will be able to run youtube-dl from any folder)**
+**Optional part of Step 1 (if you do this you will be able to run youtube-dl from any folder):**
 
 5. Open up start menu and search for Environment variable and open up the first hit
 
